@@ -1,0 +1,13 @@
+# UUID                                  	Group Name
+#
+1808131bbdab3fd9077969b822ede9d34d898766	Replication_SEKI_ECN_DO_NOT_REMOVE
+42951360af16edeb688f4fea9c6267fc3b00ab47	Replication_DEAC_ECN_DO_NOT_REMOVE
+4b962674f99a09b0eb46d541d012deb03f01f5d7	Replication_CNSH_ECN_DO_NOT_REMOVE
+76dd8c13c0a1f48ea35cccc8b6fd68e82755ac27	CI_Infrastructure_ENM_admin
+a69b3f06bd21180f40e16dfbd9c3de09f9e76f1a	Replication_SELI_ECN_DO_NOT_REMOVE
+b49b726c286ad73a12b76edbaa3e7fd5b1e4094a	SEKA_ECN_DEPRECATED_PLEASE_REMOVE_FROM_PROJECT_CONFIG
+cb995318cafe578ffd0514ae540db8a23557fae5	TOR_CI_Execution
+d6b2899ead58bbd7f6159baea593134d9809b28d	Replication_CAMO_ECN_DO_NOT_REMOVE
+db2dcfe8a14dbfe30f39e2c76168f8d7f54f87d7	Replication_USSJ_ECN_DO_NOT_REMOVE
+fb47941ac34b8fa9cd0f95dd3b496ae2b44e2515	Replication_SELN_ECN_DO_NOT_REMOVE
+global:Registered-Users                 	Registered Users
